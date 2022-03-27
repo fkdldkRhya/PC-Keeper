@@ -11,7 +11,6 @@ PC 통합 관리 솔루션, 이 프로그램을 통해 여러 대의 PC를 원�
 
 Youtube URL: https://youtu.be/_7YQh9JIEM0
 
-<br />
 ### PC-Keeper Client & Server
 라이언트는 C#. Java를 섞어서 개발하였습니다. 그러므로 .NET Framework, JAVA 1.8.0 버전 이상이 설치되어있어야 합니다.
 또한 서버는 JAVA 1.8.0 버전 이상이 설치되어있어야 합니다.
